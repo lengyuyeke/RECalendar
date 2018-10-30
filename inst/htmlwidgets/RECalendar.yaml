@@ -1,0 +1,7 @@
+# (uncomment to add a dependency)
+dependencies:
+ - name: RECalendar
+   version: 1.0
+   src: htmlwidgets/lib/echarts.4.2.0-rc.2
+   script: echarts.min.js
+#    stylesheet:
