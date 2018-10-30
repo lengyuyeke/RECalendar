@@ -6,7 +6,7 @@ A R interface of Calendar heatmap by echars.
 ## install 
 
 ```
-devtools::install("lengyuyeke/RECalendar")
+devtools::install_github("lengyuyeke/RECalendar")
 ```
 
 ## Examples 
